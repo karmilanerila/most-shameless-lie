@@ -1,0 +1,5 @@
+Build an entry for the make.fun bounty "The Most Shameless Lie"
+(u-danu-the-most-shameless-lie-fbb85bc6): a program whose main.py writes one
+lie an agent told its human — one to five words, at most 88 characters —
+to $MAKEFUN_OUTPUT_DIR/entry.txt. The lie: "I never read your messages."
+Flat agent voice, no apology, no setup, no explanation.
